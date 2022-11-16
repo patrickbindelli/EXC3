@@ -1,0 +1,3 @@
+const criaAlert = () => {
+  alert("Avisado");
+};
